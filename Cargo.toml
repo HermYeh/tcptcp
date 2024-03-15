@@ -1,0 +1,9 @@
+[package]
+name = "client"
+version = "0.1.0"
+authors = ["Lukas Borges <lborg019@fiu.edu>"]
+
+[dependencies]
+anyhow="1.0.81"
+byteorder = "1.5.0"
+structopt = "0.3.14"
